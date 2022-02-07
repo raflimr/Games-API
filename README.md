@@ -1,5 +1,5 @@
 # Dokumentasi API
 
-You can check the endpoint with the 
+You can check the endpoint with this documentation API
 
-https://s.id/dokumentasi-api-games-api
+https://s.id/games-api
